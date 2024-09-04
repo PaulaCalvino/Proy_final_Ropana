@@ -1,0 +1,4 @@
+venv/
+*.csv
+_pycache_
+json_bbdd.json
